@@ -17,7 +17,7 @@ I try to make all my work easily installable to your servers so you should simpl
 > 3 - Great Chaparal near the church on route 68.
 > 4 - Grapeseed next to the highway in a container.
 
-![Location Img](http://url/to/img.png)
+![Location Img](ArcticDrugStash/gtavDrugMap.png)
 
 ## Note from Arctic
 
